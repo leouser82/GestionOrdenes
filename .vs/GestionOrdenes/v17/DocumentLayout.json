@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GestionOrdenes\\GestionOrdenes\\GestionOrdenes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0A3BC5-8E07-4273-B0B9-3C5431E6F9F0}|GestionOrdenes\\GestionOrdenes.csproj|c:\\gestionordenes\\gestionordenes\\gestionordenes\\gestionordenes\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5E0A3BC5-8E07-4273-B0B9-3C5431E6F9F0}|GestionOrdenes\\GestionOrdenes.csproj|solutionrelative:gestionordenes\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0A3BC5-8E07-4273-B0B9-3C5431E6F9F0}|GestionOrdenes\\GestionOrdenes.csproj|c:\\gestionordenes\\gestionordenes\\gestionordenes\\gestionordenes\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5E0A3BC5-8E07-4273-B0B9-3C5431E6F9F0}|GestionOrdenes\\GestionOrdenes.csproj|solutionrelative:gestionordenes\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0A3BC5-8E07-4273-B0B9-3C5431E6F9F0}|GestionOrdenes\\GestionOrdenes.csproj|c:\\gestionordenes\\gestionordenes\\gestionordenes\\gestionordenes\\services\\ordeninversionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E0A3BC5-8E07-4273-B0B9-3C5431E6F9F0}|GestionOrdenes\\GestionOrdenes.csproj|solutionrelative:gestionordenes\\services\\ordeninversionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0A3BC5-8E07-4273-B0B9-3C5431E6F9F0}|GestionOrdenes\\GestionOrdenes.csproj|c:\\gestionordenes\\gestionordenes\\gestionordenes\\gestionordenes\\controllers\\ordenesinversioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E0A3BC5-8E07-4273-B0B9-3C5431E6F9F0}|GestionOrdenes\\GestionOrdenes.csproj|solutionrelative:gestionordenes\\controllers\\ordenesinversioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0A3BC5-8E07-4273-B0B9-3C5431E6F9F0}|GestionOrdenes\\GestionOrdenes.csproj|c:\\gestionordenes\\gestionordenes\\gestionordenes\\gestionordenes\\repositories\\activofinancierorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E0A3BC5-8E07-4273-B0B9-3C5431E6F9F0}|GestionOrdenes\\GestionOrdenes.csproj|solutionrelative:gestionordenes\\repositories\\activofinancierorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0A3BC5-8E07-4273-B0B9-3C5431E6F9F0}|GestionOrdenes\\GestionOrdenes.csproj|c:\\gestionordenes\\gestionordenes\\gestionordenes\\gestionordenes\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E0A3BC5-8E07-4273-B0B9-3C5431E6F9F0}|GestionOrdenes\\GestionOrdenes.csproj|solutionrelative:gestionordenes\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0A3BC5-8E07-4273-B0B9-3C5431E6F9F0}|GestionOrdenes\\GestionOrdenes.csproj|c:\\gestionordenes\\gestionordenes\\gestionordenes\\gestionordenes\\repositories\\ordeninversionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E0A3BC5-8E07-4273-B0B9-3C5431E6F9F0}|GestionOrdenes\\GestionOrdenes.csproj|solutionrelative:gestionordenes\\repositories\\ordeninversionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0A3BC5-8E07-4273-B0B9-3C5431E6F9F0}|GestionOrdenes\\GestionOrdenes.csproj|c:\\gestionordenes\\gestionordenes\\gestionordenes\\gestionordenes\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E0A3BC5-8E07-4273-B0B9-3C5431E6F9F0}|GestionOrdenes\\GestionOrdenes.csproj|solutionrelative:gestionordenes\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\GestionOrdenes\\GestionOrdenes\\GestionOrdenes\\GestionOrdenes\\docker-compose.yml",
+              "RelativeDocumentMoniker": "GestionOrdenes\\docker-compose.yml",
+              "ToolTip": "C:\\GestionOrdenes\\GestionOrdenes\\GestionOrdenes\\GestionOrdenes\\docker-compose.yml",
+              "RelativeToolTip": "GestionOrdenes\\docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-08-28T19:13:44.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\GestionOrdenes\\GestionOrdenes\\GestionOrdenes\\GestionOrdenes\\Dockerfile",
+              "RelativeDocumentMoniker": "GestionOrdenes\\Dockerfile",
+              "ToolTip": "C:\\GestionOrdenes\\GestionOrdenes\\GestionOrdenes\\GestionOrdenes\\Dockerfile",
+              "RelativeToolTip": "GestionOrdenes\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-28T19:13:30.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\GestionOrdenes\\GestionOrdenes\\GestionOrdenes\\GestionOrdenes\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "GestionOrdenes\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\GestionOrdenes\\GestionOrdenes\\GestionOrdenes\\GestionOrdenes\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "GestionOrdenes\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwDUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T19:01:23.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ActivoFinancieroRepository.cs",
+              "DocumentMoniker": "C:\\GestionOrdenes\\GestionOrdenes\\GestionOrdenes\\GestionOrdenes\\Repositories\\ActivoFinancieroRepository.cs",
+              "RelativeDocumentMoniker": "GestionOrdenes\\Repositories\\ActivoFinancieroRepository.cs",
+              "ToolTip": "C:\\GestionOrdenes\\GestionOrdenes\\GestionOrdenes\\GestionOrdenes\\Repositories\\ActivoFinancieroRepository.cs",
+              "RelativeToolTip": "GestionOrdenes\\Repositories\\ActivoFinancieroRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T20:07:28.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\GestionOrdenes\\GestionOrdenes\\GestionOrdenes\\GestionOrdenes\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "GestionOrdenes\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\GestionOrdenes\\GestionOrdenes\\GestionOrdenes\\GestionOrdenes\\Repositories\\Repository.cs",
+              "RelativeToolTip": "GestionOrdenes\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T19:48:46.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrdenInversionRepository.cs",
+              "DocumentMoniker": "C:\\GestionOrdenes\\GestionOrdenes\\GestionOrdenes\\GestionOrdenes\\Repositories\\OrdenInversionRepository.cs",
+              "RelativeDocumentMoniker": "GestionOrdenes\\Repositories\\OrdenInversionRepository.cs",
+              "ToolTip": "C:\\GestionOrdenes\\GestionOrdenes\\GestionOrdenes\\GestionOrdenes\\Repositories\\OrdenInversionRepository.cs",
+              "RelativeToolTip": "GestionOrdenes\\Repositories\\OrdenInversionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T19:48:11.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdenInversionService.cs",
+              "DocumentMoniker": "C:\\GestionOrdenes\\GestionOrdenes\\GestionOrdenes\\GestionOrdenes\\Services\\OrdenInversionService.cs",
+              "RelativeDocumentMoniker": "GestionOrdenes\\Services\\OrdenInversionService.cs",
+              "ToolTip": "C:\\GestionOrdenes\\GestionOrdenes\\GestionOrdenes\\GestionOrdenes\\Services\\OrdenInversionService.cs",
+              "RelativeToolTip": "GestionOrdenes\\Services\\OrdenInversionService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAywC0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T19:44:35.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrdenesInversionController.cs",
+              "DocumentMoniker": "C:\\GestionOrdenes\\GestionOrdenes\\GestionOrdenes\\GestionOrdenes\\Controllers\\OrdenesInversionController.cs",
+              "RelativeDocumentMoniker": "GestionOrdenes\\Controllers\\OrdenesInversionController.cs",
+              "ToolTip": "C:\\GestionOrdenes\\GestionOrdenes\\GestionOrdenes\\GestionOrdenes\\Controllers\\OrdenesInversionController.cs",
+              "RelativeToolTip": "GestionOrdenes\\Controllers\\OrdenesInversionController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAnwCkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T19:43:45.65Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
