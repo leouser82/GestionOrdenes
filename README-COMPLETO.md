@@ -1,5 +1,7 @@
 # 📈 Gestión de Órdenes API
 
+(PARARSE EN LA RAMA MASTER EN GIT)
+
 API REST completa para la gestión de órdenes de inversión en activos financieros, desarrollada con .NET 8 siguiendo principios SOLID y arquitectura limpia.
 
 ## 🚀 Características Principales
