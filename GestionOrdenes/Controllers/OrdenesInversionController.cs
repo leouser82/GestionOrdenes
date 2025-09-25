@@ -10,7 +10,7 @@ namespace GestionOrdenes.Controllers
     [Authorize]
     public class OrdenesInversionController : ControllerBase
     {
-        private readonly IOrdenInversionService _ordenService;
+        private readonly IOrdenInversionService _ordenService;//sss
 
         public OrdenesInversionController(IOrdenInversionService ordenService)
         {
