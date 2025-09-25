@@ -118,33 +118,49 @@ builder.Services.AddSwaggerGen(c =>
 // CORS
 builder.Services.AddCors(options =>
 {
-    options.AddDefaultPolicy(policy =>
+    options.AddPolicy("ReactApp", policy =>
     {
-        policy.AllowAnyOrigin()
+        policy.WithOrigins("http://localhost:3000", "https://localhost:3000", "http://localhost:3001")
               .AllowAnyHeader()
-              .AllowAnyMethod();
+              .AllowAnyMethod()
+              .AllowCredentials();
+    });
+    
+    // Política más permisiva para desarrollo
+    options.AddPolicy("Development", policy =>
+    {
+        policy.SetIsOriginAllowed(origin => true)
+              .AllowAnyHeader()
+              .AllowAnyMethod()
+              .SetPreflightMaxAge(TimeSpan.FromSeconds(2520));
     });
 });
 
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
+// Swagger habilitado para todos los ambientes (desarrollo y producción)
+app.UseSwagger();
+app.UseSwaggerUI(c =>
 {
-    app.UseSwagger();
-    app.UseSwaggerUI(c =>
-    {
-        c.SwaggerEndpoint("/swagger/v1/swagger.json", "Gestión de Órdenes API v1");
-        c.RoutePrefix = string.Empty; // Makes Swagger UI available at the root
-    });
-}
+    c.SwaggerEndpoint("/swagger/v1/swagger.json", "Gestión de Órdenes API v1");
+    c.RoutePrefix = string.Empty; // Makes Swagger UI available at the root
+});
 
 // Custom Exception Handling Middleware
 app.UseMiddleware<ExceptionHandlingMiddleware>();
 
-app.UseHttpsRedirection();
+// CORS debe ir ANTES de UseHttpsRedirection
+if (app.Environment.IsDevelopment())
+{
+    app.UseCors("Development");
+}
+else
+{
+    app.UseCors("ReactApp");
+}
 
-app.UseCors();
+// app.UseHttpsRedirection(); // Comentado temporalmente para desarrollo
 
 app.UseAuthentication();
 app.UseAuthorization();

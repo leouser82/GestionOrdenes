@@ -96,6 +96,11 @@ namespace GestionOrdenes.Controllers
         [HttpPut("{id}/ejecutar")]
         public async Task<IActionResult> EjecutarOrden(int id)
         {
+            if (id == 0)
+            {
+                return BadRequest(new { message = "El ID de la orden no puede ser 0" });
+            }
+            
             var orden = await _ordenService.EjecutarOrdenAsync(id);
             if (orden == null)
             {

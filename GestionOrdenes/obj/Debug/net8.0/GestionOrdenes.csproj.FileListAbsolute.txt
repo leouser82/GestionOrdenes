@@ -408,11 +408,6 @@ C:\GestOrdenes\GestionOrdenes\GestionOrdenes\obj\Debug\net8.0\GestionOrdenes.Mvc
 C:\GestOrdenes\GestionOrdenes\GestionOrdenes\obj\Debug\net8.0\GestionOrdenes.sourcelink.json
 C:\GestOrdenes\GestionOrdenes\GestionOrdenes\obj\Debug\net8.0\staticwebassets.build.json
 C:\GestOrdenes\GestionOrdenes\GestionOrdenes\obj\Debug\net8.0\staticwebassets.development.json
-C:\GestOrdenes\GestionOrdenes\GestionOrdenes\obj\Debug\net8.0\staticwebassets\msbuild.GestionOrdenes.Microsoft.AspNetCore.StaticWebAssets.props
-C:\GestOrdenes\GestionOrdenes\GestionOrdenes\obj\Debug\net8.0\staticwebassets\msbuild.build.GestionOrdenes.props
-C:\GestOrdenes\GestionOrdenes\GestionOrdenes\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GestionOrdenes.props
-C:\GestOrdenes\GestionOrdenes\GestionOrdenes\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GestionOrdenes.props
-C:\GestOrdenes\GestionOrdenes\GestionOrdenes\obj\Debug\net8.0\staticwebassets.pack.json
 C:\GestOrdenes\GestionOrdenes\GestionOrdenes\obj\Debug\net8.0\scopedcss\bundle\GestionOrdenes.styles.css
 C:\GestOrdenes\GestionOrdenes\GestionOrdenes\obj\Debug\net8.0\GestionO.4BCBF1A0.Up2Date
 C:\GestOrdenes\GestionOrdenes\GestionOrdenes\obj\Debug\net8.0\GestionOrdenes.dll
@@ -421,3 +416,11 @@ C:\GestOrdenes\GestionOrdenes\GestionOrdenes\obj\Debug\net8.0\GestionOrdenes.xml
 C:\GestOrdenes\GestionOrdenes\GestionOrdenes\obj\Debug\net8.0\GestionOrdenes.pdb
 C:\GestOrdenes\GestionOrdenes\GestionOrdenes\obj\Debug\net8.0\GestionOrdenes.genruntimeconfig.cache
 C:\GestOrdenes\GestionOrdenes\GestionOrdenes\obj\Debug\net8.0\ref\GestionOrdenes.dll
+C:\GestOrdenes\GestionOrdenes\GestionOrdenes\bin\Debug\net8.0\GestionOrdenes.staticwebassets.endpoints.json
+C:\GestOrdenes\GestionOrdenes\GestionOrdenes\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\GestOrdenes\GestionOrdenes\GestionOrdenes\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\GestOrdenes\GestionOrdenes\GestionOrdenes\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\GestOrdenes\GestionOrdenes\GestionOrdenes\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\GestOrdenes\GestionOrdenes\GestionOrdenes\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\GestOrdenes\GestionOrdenes\GestionOrdenes\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\GestOrdenes\GestionOrdenes\GestionOrdenes\obj\Debug\net8.0\swae.build.ex.cache

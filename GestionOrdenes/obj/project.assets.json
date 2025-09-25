@@ -4205,11 +4205,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GestionOrdenes\\GestionOrdenes\\GestionOrdenes\\GestionOrdenes\\GestionOrdenes.csproj",
+      "projectUniqueName": "C:\\GestOrdenes\\GestionOrdenes\\GestionOrdenes\\GestionOrdenes.csproj",
       "projectName": "GestionOrdenes",
-      "projectPath": "C:\\GestionOrdenes\\GestionOrdenes\\GestionOrdenes\\GestionOrdenes\\GestionOrdenes.csproj",
+      "projectPath": "C:\\GestOrdenes\\GestionOrdenes\\GestionOrdenes\\GestionOrdenes.csproj",
       "packagesPath": "C:\\Users\\leoja\\.nuget\\packages\\",
-      "outputPath": "C:\\GestionOrdenes\\GestionOrdenes\\GestionOrdenes\\GestionOrdenes\\obj\\",
+      "outputPath": "C:\\GestOrdenes\\GestionOrdenes\\GestionOrdenes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\leoja\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4238,7 +4238,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -4280,6 +4281,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.20, 8.0.20]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[8.0.20, 8.0.20]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[8.0.20, 8.0.20]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[8.0.20, 8.0.20]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -4288,7 +4307,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100-rc.1.25451.107/PortableRuntimeIdentifierGraph.json"
       }
     }
   },
