@@ -46,4 +46,4 @@ steps:
     azureSubscription: '$(azureSubscription)'
     appType: 'webApp'
     appName: '$(appName)'
-    package: '$(Pipeline.Workspace)/1/a/publish/*.zip'
+    package: '$(Pipeline.Workspace)/a/publish/*.zip'
