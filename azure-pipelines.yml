@@ -12,6 +12,8 @@ variables:
   packagePath: '$(Build.ArtifactStagingDirectory)/publish'
 
 steps:
+- checkout: self  # ✅ AGREGAR ESTA LÍNEA AL INICIO
+  displayName: 'Checkout source code'
 - task: UseDotNet@2
   inputs:
     packageType: 'sdk'
