@@ -9,7 +9,7 @@ pool:
 variables:
   azureSubscription: 'FinancierosGR-Connection'
   appName: 'GestionOrdenes'
-  packagePath: '$(Build.ArtifactStagingDirectory)'
+  packagePath: '$(Build.ArtifactStagingDirectory)/publish'
 
 steps:
 - task: UseDotNet@2
@@ -46,4 +46,4 @@ steps:
     azureSubscription: '$(azureSubscription)'
     appType: 'webApp'
     appName: '$(appName)'
-    package: '$(Pipeline.Workspace)/drop/**/*.zip'
+    package: '$(Pipeline.Workspace)/drop/publish/**/*.zip'
