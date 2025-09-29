@@ -9,7 +9,7 @@ pool:
 variables:
   azureSubscription: 'FinancierosGR-Connection'
   appName: 'GestionOrdenes'
-  packagePath: '$(Build.ArtifactStagingDirectory)/publish'
+  packagePath: '$(Build.ArtifactStagingDirectory)'
 
 steps:
 - task: UseDotNet@2
